@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#08BD91</color>
+    <color name="colorPrimaryDark">#006458</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorButtonSelect">#3679B4</color>
+    <color name="WhiteColor">#ffffff</color>
+    <color name="BlackColor">#000000</color>
+    <color name="PinkColor">#A51364</color>
+    <color name="GreyBackgroundColor">#7EFFFFFF</color>
+    <color name="Message2">#C4AC8F</color>
+    <color name="Message1">#76ABC0</color>
+    <color name="NeonGreen">#00FF00</color>
+    <color name="NeonRed">#FF0000</color>
+</resources>
